@@ -3,18 +3,18 @@ The purpose of sales dashboard is to present an overview of the sales metrics an
 
 Link : https://public.tableau.com/app/profile/vinay.bhalerao/viz/SalesDashboard_17307420245100/SalesDashboard
 
-KPI Overview
-Display a summary of total sales, profits and quantity for the current year and the previous year.
+KPI Overview:
+I)Display a summary of total sales, profits and quantity for the current year and the previous year.
 
 Sales Trends
- – Present the data for each KPI on a monthly basis for both the current year and the previous year.
- – Identify months with highest and lowest sales and make them easy to recognize.
+ I)Present the data for each KPI on a monthly basis for both the current year and the previous year.
+ II)Identify months with highest and lowest sales and make them easy to recognize.
 
 Product Subcategory Comparison
- – Compare sales performance by different product subcategories for the current year and the previous year.
- – Include a comparison of sales with profit.
+ I)Compare sales performance by different product subcategories for the current year and the previous year.
+ II) Include a comparison of sales with profit.
 
 Weekly Trends for Sales & Profit
- – Present weekly sales and profit data for the current year.
- – Display the average weekly values.
- – Highlight weeks that are above and below the average to draw attention to sales & profit performance.
+ I)Present weekly sales and profit data for the current year.
+ II)Display the average weekly values.
+ III)Highlight weeks that are above and below the average to draw attention to sales & profit performance.
